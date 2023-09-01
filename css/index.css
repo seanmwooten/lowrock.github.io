@@ -1,0 +1,31 @@
+body {
+	background-color: #f5f5f5;
+	color: #181818;
+	font-family: 'Exo 2', sans-serif;
+	font-size: x-large;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	text-decoration: none;
+}
+a:link {
+	color: #606060;
+	text-decoration: none;
+}
+a:visited {
+	color: #303030;
+	text-decoration: none;
+}
+a:hover, a:active {
+	color: #909090;
+	text-decoration: underline;
+}	
+img {
+	margin-bottom: 7px;
+}
+img.icon {
+	margin-top: 11px;
+}
+p.notice {
+	font-size: xx-small;
+}
